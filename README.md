@@ -27,10 +27,8 @@ Tenho interesse em:
 <div style="display: inline_block"><br>
   <img align="center" alt="Marvin-HTML" height="60" width="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
   <img align="center" alt="Marvin-CSS" height="60" width="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
   <img align="center" alt="Marvin-JS" height="60" width="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
