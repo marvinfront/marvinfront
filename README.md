@@ -16,7 +16,6 @@ Tenho interesse em:
 - 🎨 UI/UX  
 - 📱 Responsividade  
 - ⚡ Performance Web  
-- 🧩 Componentização  
 - 🔥 Projetos práticos e reais  
 
 ---
