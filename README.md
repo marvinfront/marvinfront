@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Marvin
 
-💻 Desenvolvedor Front-End em formação  
+💻 Desenvolvedor Front-End
 🎯 Focado em interfaces modernas, responsivas e funcionais  
 🚀 Em constante evolução  
 
